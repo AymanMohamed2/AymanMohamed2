@@ -1,5 +1,5 @@
 # 🚀 Hello, Flutter Enthusiasts! 🌟  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Coding Typing Animation">
 
 I’m **Ayman Mohamed**, a passionate **Flutter Developer** and **mobile app enthusiast**. With a strong foundation in creating visually stunning and efficient cross-platform apps, I aim to deliver user-friendly solutions that leave a lasting impact.
 
