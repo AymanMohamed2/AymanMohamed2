@@ -2,7 +2,7 @@
 ### *Flutter Developer | Mobile App Enthusiast | Tech Innovator*
 
 <p align="center">
-<img src="https://media.giphy.com/media/eP1PK0CiEGlP2/giphy.gif" width="100%" alt="Code Rain Animation">
+<img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="100%" alt="Futuristic Tech Animation">
 </p>
 
 Welcome to my GitHub! I’m a **Flutter Developer** with a passion for building responsive, scalable, and beautiful mobile applications. I specialize in creating apps with **clean, maintainable code**, and I’m always striving to improve and learn new things. Whether it's **building AI-powered apps** or integrating **advanced animations**, I love turning ideas into reality.
