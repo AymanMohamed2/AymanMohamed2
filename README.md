@@ -2,7 +2,7 @@
 ### *Flutter Developer | Mobile App Enthusiast | Tech Innovator*
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Terminal Typing Animation">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Multitasking Developer Animation">
 </p>
 
 Welcome to my GitHub! I’m a **Flutter Developer** with a passion for building responsive, scalable, and beautiful mobile applications. I specialize in creating apps with **clean, maintainable code**, and I’m always striving to improve and learn new things. Whether it's **building AI-powered apps** or integrating **advanced animations**, I love turning ideas into reality.
