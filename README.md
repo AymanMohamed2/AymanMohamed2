@@ -2,7 +2,7 @@
 ### *Flutter Developer | Mobile App Enthusiast | Tech Innovator*
 
 <p align="center">
-<img src="https://media.giphy.com/media/W3zTnYdc3xBUU2IKQX/giphy.gif" width="100%" alt="Dart Logo Animation">
+<img src="https://media.giphy.com/media/1ykRX0Eq3XZySnYVr5/giphy.gif" width="100%" alt="Code Typing in Flutter Theme">
 </p>
 
 Welcome to my GitHub! I’m a **Flutter Developer** with a passion for building responsive, scalable, and beautiful mobile applications. I specialize in creating apps with **clean, maintainable code**, and I’m always striving to improve and learn new things. Whether it's **building AI-powered apps** or integrating **advanced animations**, I love turning ideas into reality.
