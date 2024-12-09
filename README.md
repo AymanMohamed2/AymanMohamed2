@@ -1,8 +1,12 @@
 # 👨‍💻 **Hi, I'm Ayman Mohamed** 🌟  
 ### *Flutter Developer | Mobile App Enthusiast | Tech Innovator*
 
+<h1 align="center">
+  Hello there, fellow <developers/>! 👋
+</h1>
+
 <p align="center">
-<img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="100%" alt="Futuristic Tech Animation">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated typing effect saying: Welcome to Ayman's GitHub" width="600">
 </p>
 
 Welcome to my GitHub! I’m a **Flutter Developer** with a passion for building responsive, scalable, and beautiful mobile applications. I specialize in creating apps with **clean, maintainable code**, and I’m always striving to improve and learn new things. Whether it's **building AI-powered apps** or integrating **advanced animations**, I love turning ideas into reality.
