@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🚀 Hello, Innovators! 🌟
 
-<!--
-**AymanMohamed2/AymanMohamed2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Ayman Mohamed**, a passionate **Flutter Developer** and digital problem-solver, turning ideas into seamless mobile experiences. With over **2 years of experience**, I’m on a mission to simplify technology and create apps that make life easier.
 
-Here are some ideas to get you started:
+💡 **Motto:** "Great apps are built with great purpose."
+⚡ **Fun Fact:** I write clean code to keep my bugs lonely! 🐛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Coding Toolbox
+- **Languages:** Dart, Java, C++  
+- **Frameworks:** Flutter, BLoC  
+- **Other Skills:** Firebase, Responsive UI, API Integration  
+
+---
+
+## 🌟 Achievements & Highlights
+- **Organizer, NASA Space Apps**  
+- **Head of Flutter Development, GDG On Campus Assiut**  
+
+---
+
+## 🌐 Let’s Build Together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-mohamed-1b881024a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/AymanMohamed2)  
