@@ -1,81 +1,86 @@
-# 🚀 Hello, Flutter Enthusiasts! 🌟  
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1200" height="400" alt="Hello World Animation">
+# 👋 Hello, I'm Ayman Mohamed 🌟
+*Flutter Developer | Mobile App Enthusiast | Open Source Contributor*
 
-I’m **Ayman Mohamed**, a passionate **Flutter Developer** and **mobile app enthusiast**. With a strong foundation in creating visually stunning and efficient cross-platform apps, I aim to deliver user-friendly solutions that leave a lasting impact.
-
----
-
-## 🌟 About Me  
-- 👨‍💻 **Head of Flutter Development** at GDG On Campus Assiut.  
-- 📱 Creator of apps like **AMNA** (AI Breast Cancer App) and **Wasally** (Delivery App).  
-- 🌱 Currently exploring **advanced Flutter animations** and **state management solutions**.  
-- 🌍 Building apps that redefine user experiences in the mobile ecosystem.
+Welcome to my GitHub profile! I’m passionate about **building cross-platform mobile apps** using **Flutter** and **Dart**. With a strong foundation in **clean code** and **UI/UX design**, I aim to create apps that are both functional and beautiful.
 
 ---
 
-## 🛠️ My Flutter Toolkit  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" />
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD" />
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
-</p>
+## 🚀 About Me  
+- **Location:** Cairo, Egypt  
+- **Current Role:** Head of Flutter Development at GDG On Campus Assiut University  
+- **Education:** Business Information Systems (Undergraduate)  
+- **Skills:**  
+  - Flutter & Dart
+  - Firebase & Cloud Firestore  
+  - BLoC, Provider, and MVVM  
+  - REST APIs & JSON  
+  - Git & GitHub  
+  - UI/UX Design (Figma, Adobe XD)
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** Dart, Java, C++
+- **Frameworks & Libraries:** Flutter, BLoC, Riverpod, MVVM
+- **Backend:** Firebase, REST APIs
+- **Tools:** Git, VS Code, Postman, Figma
+- **Others:** CI/CD, Unit Testing, GitHub Actions
 
 ---
 
 ## 🌟 Featured Projects  
 ### 📱 **AMNA - Breast Cancer Prediction App**  
-- **Overview**: A cutting-edge app leveraging AI for early breast cancer prediction.  
-- **Technologies**: Flutter, Firebase, AI integration.  
-- <img src="https://via.placeholder.com/250x150.png?text=Project+Image" alt="AMNA App" width="250">  
+An app designed to predict breast cancer risk using AI and machine learning techniques.  
+- **Tech Stack:** Flutter, Firebase, TensorFlow Lite  
+- [View Project](https://github.com/AymanMohamed2/AMNA)
 
-### 🚚 **Wasally - Delivery App**  
-- **Overview**: A sleek delivery app connecting customers with vendors seamlessly.  
-- **Technologies**: Flutter, Firebase, REST APIs.  
-- <img src="https://via.placeholder.com/250x150.png?text=Project+Image" alt="Wasally App" width="250">  
+### 🎬 **Scopo - Movie Discovery App**  
+A Flutter app that allows users to browse and search for movies with detailed information.  
+- **Tech Stack:** Flutter, Firebase, REST APIs  
+- [View Project](https://github.com/AymanMohamed2/SCOPO)
+
+### 📚 **Bookly - Book Collection App**  
+A responsive app to browse and organize books by categories.  
+- **Tech Stack:** Flutter, Firebase, Hive (Local Storage)  
+- [View Project](https://github.com/AymanMohamed2/bookly)
 
 ---
 
 ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanMohamed2&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanMohamed2&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanMohamed2&show_icons=true&theme=radical)
 
 ---
 
-## 🏆 Achievements  
-- 🌍 **Organizer** of NASA Space Apps Challenge.  
-- 📈 Ranked among the top contributors in **Flutter Development** at GDG On Campus.  
-- 🏅 Developed **10+ Flutter apps** addressing real-world challenges.  
+## 🏆 Achievements & Contributions  
+- **Head of Flutter Development**, GDG On Campus Assiut University  
+- **NASA Space Apps Ismailia Organizer**  
+- Contributed to **open-source Flutter packages** and libraries.  
+- Actively participate in **Flutter communities** and events.
 
 ---
 
-## 🌐 Let's Connect!  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayman-mohamed-1b881024a/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AymanMohamed2">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/ayman-mohamed-1b881024a/)  
+- [GitHub](https://github.com/AymanMohamed2)  
+- [Portfolio](https://your-portfolio-link.com)
+
+---
+
+## 📚 Certifications & Trainings
+- **Mastering Flutter: Responsive & Adaptive UI Design** - Udemy  
+- **Flutter Advanced Course (Bloc & MVVM)** - Udemy  
+- **Google Maps Integration Guide** - Udemy  
+- **Git & GitHub** - Udemy  
 
 ---
 
 ## 🌈 Fun Facts  
-- ☕ **Coffee to Code**: My apps are fueled by coffee and creativity.  
-- 🌍 **Global Vision**: I love building apps that can make a difference worldwide.  
-- 🎨 **UI First**: Designing intuitive interfaces is my passion.  
+- 💻 I’m passionate about writing clean, maintainable code.  
+- ☕ Coffee fuels my productivity, and Flutter powers my creativity!  
+- 🚀 Currently learning **advanced animations** in Flutter.  
 
 ---
 
-## ✨ Quote I Live By  
-> *"Dream it, code it, deploy it."*
-
----
-
-### 🚀 **Let’s collaborate and build the future with Flutter!**
+## 📩 Let’s Build Together!  
+Feel free to reach out if you have exciting project ideas or want to collaborate!  
