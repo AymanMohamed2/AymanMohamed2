@@ -102,6 +102,4 @@ I am **Ayman Mohamed**, an enthusiastic **Flutter Developer** based in **Cairo, 
 
 ### **"Let’s collaborate and create something extraordinary together!"**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L0k1Wc6RnmMkgzFzG4/giphy.gif" width="600" alt="Creative Coding GIF">
-</p>
+
