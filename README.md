@@ -43,7 +43,6 @@ I am **Ayman Mohamed**, an enthusiastic **Flutter Developer** based in **Cairo, 
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" />
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
 </p>
 
 ---
