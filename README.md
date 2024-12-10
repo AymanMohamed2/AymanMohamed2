@@ -1,6 +1,7 @@
 # 👨‍💻 **Hi, I'm Ayman Mohamed** 🌟  
 ### *Flutter Developer | Mobile App Enthusiast | Tech Innovator*
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
 
 
 Welcome to my GitHub! I’m a **Flutter Developer** with a passion for building responsive, scalable, and beautiful mobile applications. I specialize in creating apps with **clean, maintainable code**, and I’m always striving to improve and learn new things. Whether it's **building AI-powered apps** or integrating **advanced animations**, I love turning ideas into reality.
