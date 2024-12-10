@@ -78,7 +78,7 @@ I am **Ayman Mohamed**, an enthusiastic **Flutter Developer** based in **Cairo, 
 
 - [LinkedIn](https://www.linkedin.com/in/ayman-mohamed-1b881024a/)  
 - [GitHub](https://github.com/AymanMohamed2)  
-- [Email](darknaya.am@gmail.com)
+- [Email](mailto:darknaya.am@gmail.com)
 
 ---
 
